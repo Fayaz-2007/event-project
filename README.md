@@ -13,9 +13,9 @@ This repository contains a simple and responsive **HTML-based event landing page
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- Inline CSS  
-- Basic image embedding and linking  
+![](https://skillicons.dev/icons?i=html,css)
+
+- Basic image embedding and linking
 
 ## 📂 Folder Structure
 event.html
